@@ -1,26 +1,24 @@
-# 🎭 Face Filter WebAR
+# WebAR Face Filter
 
-A simple WebAR face filter app built with **Unity 6** and **Needle Engine**. Runs directly in the browser — no app needed!
+A sample-based browser face-filter experiment using Unity and Needle Engine.
 
-## 🚀 Try It
-👉 [Try it now](https://webar_facefilter-z2neita2qyb8j.needle.run/)  
-*(Use a mobile device with a camera for best experience)*
+## Project contents
 
-## 🔧 Features
-- Real-time face tracking
-- Web-based (WebXR)
-- Lightweight and mobile-friendly
+- Unity project configured with **Unity 6000.0.52f1**.
+- **Needle Engine exporter 4.5.9** and **Needle Engine samples 0.20.1**.
+- A face-filter example scene at `Assets/Samples/Needle Engine/Needle Face Filter Examples.unity`.
+- A small HTML/CSS landing page linking to the hosted experiment.
 
-## 🛠️ How to Use
-1. Open in Unity 6
-2. Add your face filter models
-3. Export with Needle Engine
-4. Deploy to web (e.g., GitHub Pages, Vercel)
+## Demo status
 
-## 📦 Tech
-- Unity 6
-- Needle Engine
-- WebXR
+A verified public demo is not currently linked. The Unity project and example scene are available for inspection. The HTML landing page contains a previous deployment link whose availability needs to be restored before it is promoted.
 
-## 📄 License
-[MIT](LICENSE)
+## Development
+
+Open the project in the matching Unity editor and restore the Needle packages. Inspect the included example scene and exporter configuration before rebuilding or publishing. The repository uses Needle sample content; third-party assets and packages retain their original attribution and terms.
+
+## Status
+
+Prototype based on sample content. No original face-tracking model or production deployment is claimed.
+
+[License](LICENSE) · [Unity & XR collection](https://github.com/aminzoroufi/aminzoroufi/blob/main/projects/unity-xr.md)
